@@ -770,7 +770,7 @@ export const DE = {
    ResourceColor: "Farbe der Ressource",
    NextMarketUpdateIn: "Nächste Aktualisierung der Angebote in",
    Theme: "Thema",
-   Shortcut: "Abkürzung",
+   Shortcut: "Tastenbelegung",
    Gameplay: "Spielablauf",
    Sound: "Klang",
    SoundEffect: "Sound-Effekt",
@@ -1033,8 +1033,8 @@ export const DE = {
    GrandBazaarDesc:
       "Alle Märkte an einer Stelle kontrollieren!. Alle umgebenden Gebäude erhalten +5 Speichermultiplikator",
    GrandBazaarFilters: "Filter",
-   GrandBazaarFilterYouPay: "You Pay",
-   GrandBazaarFilterYouGet: "You Get",
+   GrandBazaarFilterYouPay: "Du bezahlst",
+   GrandBazaarFilterYouGet: "Du bekommst",
    GrandBazaarFilterWarningHTML:
       "Um den Handel irgendeines Markts anzuzeigen, muß vorher ein Filter gewählt werden",
    AbuSimbel: "Abu Simbel",
@@ -1043,19 +1043,19 @@ export const DE = {
    GreatSphinxDesc:
       "All Tier II or above buildings within 2 tiles get +N Consumption, Production Multiplier. N = Number of its adjacent buildings of the same type",
    SeaTradeUpgrade: "Trading with players across the sea. Tariff for each sea tile: %{tariff}",
-   SeaTradeCost: "Sea Trade Cost",
+   SeaTradeCost: "Kosten für Überseehandel",
    Server: "Server",
    UseMirrorServer: "Use Mirror Server",
    UseMirrorServerDescHTML:
       "If you have problems accessing the main server, you can connect to the mirror server instead. <b>Require restarting your game to take effect</b>",
    EmpireValueFromResources: "From Resources",
    EmpireValueFromBuildings: "From Buildings",
-   StatisticsScience: "Science",
-   StatisticsScienceProduction: "Science Production",
-   StatisticsScienceFromWorkers: "Science From Workers",
-   StatisticsScienceFromBuildings: "Science From Buildings",
-   SidePanelWidth: "Side Panel Width",
+   StatisticsScience: "Forschung",
+   StatisticsScienceProduction: "Forschungsproduktion",
+   StatisticsScienceFromWorkers: "Forschung von Arbeitern",
+   StatisticsScienceFromBuildings: "Forschung von Gebäuden",
+   SidePanelWidth: "Breite des seitlichen Menüs",
    SidePanelWidthDescHTML:
       "Change the width of the side panel. <b>Require restarting your game to take effect</b>",
-   ShowUnbuiltOnly: "Only show buildings that haven't been built yet",
+   ShowUnbuiltOnly: "Zeige nur Gebäude die noch nicht gebaut wurden.",
 };
